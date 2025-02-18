@@ -2,8 +2,8 @@
 ### Empresa para suas soluções!
 
 <div style="display: inline_block">
- <img height=180em style="display: flex, flex: 1" alt="Alefe's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlefeSk8&show_icons=true&theme=tokyonight" />
- <img height=180em width=300px alt="Alefe's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefeSk8&layout=compact&langs_count=8&theme=tokyonight&hide=ShaderLab,HLSL" />
+ <img height=180em style="display: flex, flex: 1" alt="FxTech's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FxTechSk8&show_icons=true&theme=tokyonight" />
+ <img height=180em width=300px alt="FxTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxTechSk8&layout=compact&langs_count=8&theme=tokyonight&hide=ShaderLab,HLSL" />
 </div>
  
 <div style="display: inline_block"><br>
@@ -25,15 +25,15 @@
   ##
  
 <div>
- <a href="https://alefesk8.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/alefe-kouichi-araujo-mikawa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/alefe_sk8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:alefe_sk8@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://fxtech.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+ <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/company/fx-technology/about/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/_fxtech_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:contato.fxtech@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="https://github.com/AlefeSk8/Spotify-Clone-Next.js">
-  <img width=400px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=Spotify-Clone-Next.js" />
+<a href="https://github.com/FxTechSk8/Spotify-Clone-Next.js">
+  <img width=400px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FxTechSk8&theme=tokyonight&repo=Spotify-Clone-Next.js" />
 </a>
-<a href="https://github.com/AlefeSk8/MyFirstGame-Unity">
-  <img width=400px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=MyFirstGame-Unity" />
+<a href="https://github.com/FxTechSk8/MyFirstGame-Unity">
+  <img width=400px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FxTechSk8&theme=tokyonight&repo=MyFirstGame-Unity" />
 </a>
